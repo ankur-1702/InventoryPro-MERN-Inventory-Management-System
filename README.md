@@ -287,15 +287,4 @@ The backend includes a `vercel.json` that routes all `/api/v1/*` traffic to `ind
 - **Test coverage** — unit tests for state machine logic in services, integration tests for the bulk upload pipeline, and contract tests for the API response envelope.
 - **Rate limiting** on auth endpoints (OTP send, login) to protect against brute-force and OTP enumeration attacks.
 
----
 
-## 📞 Contact
-
-**GitHub**: [SuryaX2/IMS](https://github.com/SuryaX2/IMS/)  
-**Email**: sekharsurya111@gmail.com
-
----
-
-<div align="center">
-  Made with ❤️ by <strong>SuryaX2</strong> &nbsp;|&nbsp; API v1.0.0
-</div>
